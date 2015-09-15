@@ -116,3 +116,5 @@ function QuoteDelim(char)
 endf
 
 set pastetoggle=<F2> " Toggles the vim ability to paste
+
+"pewpew"
