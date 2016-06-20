@@ -24,7 +24,7 @@ syntax on               " Syntax highlighting, wee!
 " ########## Vundle Stuff  ##########
 
 filetype off
-set rtp+=~/.vim/bundle/vundle
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 " General plugins.
@@ -116,5 +116,3 @@ function QuoteDelim(char)
 endf
 
 set pastetoggle=<F2> " Toggles the vim ability to paste
-
-"pewpew"
