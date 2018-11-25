@@ -66,7 +66,6 @@ let &colorcolumn="80,".join(range(120,999),",")
 set list
 set listchars=""
 set listchars+=tab:\ \ 
-set listchars+=trail:💩
 
 " ########## Plugin: Ctrl-p  ##########
 
